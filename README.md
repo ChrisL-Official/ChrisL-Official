@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ChrisL
-- 👀 I’m interested in Java
+- 👀 I’m interested in Java (for Android)
 - 🌱 I’m currently learning C and C#
 - 💞️ I’m looking to finish my fu\*king homework 
 - 📫 How to reach me ... Currently Unavailable.
