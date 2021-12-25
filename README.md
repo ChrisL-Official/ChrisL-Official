@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ChrisL-Official
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m ChrisL
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning C and C#
+- 💞️ I’m looking to finish my fu\*king homework 
+- 📫 How to reach me ... Currently Unavailable.
 
 <!---
 ChrisL-Official/ChrisL-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
