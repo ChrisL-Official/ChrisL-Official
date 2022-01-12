@@ -1,10 +1,5 @@
 - 👋 Hi, I’m ChrisL
-- 👀 I’m interested in Java (for Android)
-- 🌱 I’m currently learning C and C#
-- 💞️ I’m looking to finish my fu\*king homework 
+- 👀 I’m interested in Java (for Android), sleeping
+- 🌱 I’m currently learning 3C: C, C++ and C#
+- 💞️ I’m looking to Easy GDUT Login
 - 📫 How to reach me ... Currently Unavailable.
-
-<!---
-ChrisL-Official/ChrisL-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
