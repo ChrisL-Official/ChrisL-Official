@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ChrisL
 - 👀 I’m interested in Java (for Android), sleeping
 - 🌱 I’m currently learning 3C: C, C++ and C#
-- 💞️ I’m looking to Easy GDUT Login
+- 💞️ I’m looking to finish Easy GDUT Login, an Android App
 - 📫 How to reach me ... Currently Unavailable.
